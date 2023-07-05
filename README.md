@@ -7,4 +7,7 @@ In hydroponics, the EC (Electrical Conductivity) measure can serve as an index o
 A pH examination reveals whether a substance is acidic or alkaline. The pH scale spans from 0 to 14, with 0 indicating extreme acidity, 14 representing extreme alkalinity, and 7 being the neutral point. Nutrient blends for hydroponic culture should ideally have a pH from 5.5 to 6.5 (usually around 6), ensuring that the pH in the root environment remains within 6.5 to 7. It is within this pH range that nutrients are most efficiently absorbed by plants.
 ### Temperature
 The heat level of the nutrient mix can significantly impact a variety of crucial variables, most notably the solubility of oxygen and the metabolic rate of plants. As the heat level increases, the pace of metabolic reactions in the plants also speeds up. The optimal temperature for the nutrient mix generally falls between 18°C and 24°C. Some plants, such as kale, lisianthus, and blueberries prefer the cooler spectrum, while crops like chili peppers, squash, and marijuana fare better closer to 24°C.
+
+
+
 ![picture4](https://github.com/dash1010/Hydrofonic-system/assets/137070081/d03ac8e3-40cc-438a-b107-0558e54bd535)
