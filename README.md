@@ -11,3 +11,5 @@ The heat level of the nutrient mix can significantly impact a variety of crucial
 
 
 ![picture4](https://github.com/dash1010/Hydrofonic-system/assets/137070081/d03ac8e3-40cc-438a-b107-0558e54bd535)
+![image](https://github.com/dash1010/Hydrofonic-system/assets/137070081/109c8770-1f8b-48ef-b648-b47979a68303)
+
