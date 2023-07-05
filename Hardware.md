@@ -15,6 +15,9 @@
 ### Circuit Diagram
  ![picture3](https://github.com/dash1010/Hydrofonic-system/assets/137070081/9cdf5a2e-a023-4365-8e68-63857879ad99)
 
+### Hardware box
+![picture2](https://github.com/dash1010/Hydrofonic-system/assets/137070081/253cb841-d9d3-4086-b2c0-4bd2f203f57f)
+
  
 
 
