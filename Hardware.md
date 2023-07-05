@@ -1,3 +1,4 @@
+# Hardware
 - 1 x ESP32
 - 2 x Breadboard
 - 1 x EC sensor
