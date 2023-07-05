@@ -1,4 +1,4 @@
-#Instructions
+# Instructions
 #### Setup:
 Connect your hydroponic system to a water tank equipped with a pump. This will enable water circulation within the system.
 #### Sensors Installation:
